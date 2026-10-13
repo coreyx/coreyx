@@ -10,7 +10,9 @@
 - **[SpecDevShip](https://specdevship.com)** — Spec-driven discipline and structured agent skills for autonomous AI coding agents (Claude Code, agent frameworks).
 - **Open Source Agent & Dev Tools:**
   - `vscode-md-taskview` — Streamlined Markdown task tracking inside VS Code.
+  - `claude-md-taskview` — Claude Code mod that draws the milestone and task tree.
   - `obsidian-folder-autotag` — Automated tagging workflows for knowledge bases.
+  - `eagle-serve` — serve your Eagle library over WebDAV.
   - `eagle-extra-links` — Custom asset management and extended metadata integration.
 - **[Moongate Games](https://coreystruzan.com/projects/moongate-games)** — Games, systems, build & engine tooling, network replication and online services across Unreal Engine and Unity.
 - **Stealth Projects** — Autonomous agent architectures and distributed systems.

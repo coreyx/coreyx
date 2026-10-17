@@ -8,7 +8,8 @@
 ### 🛠️ What I’m Building & Maintaining
 
 - **[SpecDevShip](https://specdevship.com)** — Spec-driven discipline and structured agent skills for autonomous AI coding agents (Claude Code, agent frameworks).
-- **Open Source Agent & Dev Tools:**
+- **Agent Session Explorer** — a modern, cross-platform desktop GUI application designed to discover, browse, organize, and export session data from AI-assisted coding and coworking agents.
+- **Open Source:**
   - `vscode-md-taskview` — Streamlined Markdown task tracking inside VS Code.
   - `claude-md-taskview` — Claude Code mod that draws the milestone and task tree.
   - `obsidian-folder-autotag` — Automated tagging workflows for knowledge bases.

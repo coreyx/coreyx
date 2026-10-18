@@ -10,11 +10,12 @@
 - **[SpecDevShip](https://specdevship.com)** — Spec-driven discipline and structured agent skills for autonomous AI coding agents (Claude Code, agent frameworks).
 - **Agent Session Explorer** — a modern, cross-platform desktop GUI application designed to discover, browse, organize, and export session data from AI-assisted coding and coworking agents.
 - **Open Source:**
-  - `vscode-md-taskview` — Streamlined Markdown task tracking inside VS Code.
-  - `claude-md-taskview` — Claude Code mod that draws the milestone and task tree.
-  - `obsidian-folder-autotag` — Automated tagging workflows for knowledge bases.
-  - `eagle-serve` — Serve your Eagle library over WebDAV.
-  - `eagle-extra-links` — Custom asset management and extended metadata integration.
+  - `vscode-md-taskview` — Track tasks inside VS Code with this VS extension.
+  - `claude-md-taskview` — Track tasks inside Claude Code with this Claude mod.
+  - `obsidian-inference-machine` — Derive a new note from an existing one with an AI model and this Obsidian plugin.
+  - `obsidian-folder-autotag` — Automate tagging notes by folder in Obsidian using this Obsidian plugin.
+  - `eagle-serve` — Serve your Eagle library over WebDAV with this Eagle plugin.
+  - `eagle-extra-links` — Add extra links to Eagle items with this Eagle plugin.
 - **[Moongate Games](https://coreystruzan.com/projects/moongate-games)** — Games, systems, build & engine tooling, network replication and online services across Unreal Engine and Unity.
 - **Stealth Projects** — Autonomous agent architectures and distributed systems.
 

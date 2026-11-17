@@ -1,7 +1,7 @@
 # Corey Struzan (@coreyx)
 
 > **I build worlds, then bend the code that runs them.**  
-> 25+ years shipping apps, games, multiplayer architectures, AI systems, and hardware.
+> 25+ years shipping apps, games, AI, online & multiplayer systems, and hardware.
 
 ---
 

@@ -25,11 +25,13 @@
 
 ### 💻 Core Tech & Disciplines
 
-- **Languages & Frameworks:** C, C++, C#, Rust, Python, Javascript, TypeScript, Node.js, Go
+- **Languages:** C, C++, C#, Rust, Python, Javascript, TypeScript, Go
 - **AI & Agentic Systems:** Spec-driven agent skills, orchestration, harnesses, evals, agent automation workflows, vision/diffusion pipelines, multi-modal inference
-- **Engines & 3D:** Unreal Engine 4/5, Unity, real-time virtual production, custom shaders
-- **Networking & Systems:** Multiplayer architecture, custom UDP/TCP protocols, packet analysis, client-server authority, reverse engineering
-- **Hardware & Embedded:** Modular schematic design, custom audio/DSP hardware, bench testing, rapid prototyping
+- **Engines:** Unreal Engine 4/5, Unity, Godot, real-time virtual production, custom shaders
+- **Frontend:** React, Next, Svelte, shadcn
+- **Backend:** Docker, Terraform, Ansible, AWS, GCP, Node, Covnex, Supabase, Neon, Cloudflare, Vercel, Firebase, n8n
+- **Networking & Systems:** Multiplayer architecture, online services, custom UDP & TCP protocols, client-server authority, packet analysis, reverse engineering
+- **Hardware & Embedded:** Modular schematic design, PCB design, custom audio/DSP hardware, bench testing, rapid prototyping
 
 ---
 

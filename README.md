@@ -25,8 +25,8 @@
 
 ### 💻 Core Tech & Disciplines
 
-- **Languages & Frameworks:** C++, C#, Python, TypeScript, Node.js, Rust, Go
-- **AI & Agentic Systems:** Spec-driven agent skills, local LLM orchestration, vision/diffusion pipelines, agent automation workflows
+- **Languages & Frameworks:** C, C++, C#, Rust, Python, Javascript, TypeScript, Node.js, Go
+- **AI & Agentic Systems:** Spec-driven agent skills, orchestration, harnesses, evals, agent automation workflows, vision/diffusion pipelines, multi-modal inference
 - **Engines & 3D:** Unreal Engine 4/5, Unity, real-time virtual production, custom shaders
 - **Networking & Systems:** Multiplayer architecture, custom UDP/TCP protocols, packet analysis, client-server authority, reverse engineering
 - **Hardware & Embedded:** Modular schematic design, custom audio/DSP hardware, bench testing, rapid prototyping

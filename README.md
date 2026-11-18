@@ -60,6 +60,6 @@
 
 - **Website & Portfolio:** [coreystruzan.com](https://coreystruzan.com)
 - **Blog & Build Logs:** [coreystruzan.com/blog](https://coreystruzan.com/blog)
-- **Medium:** [@coreystruzan](https://medium.com/@coreystruzan)
 - **LinkedIn:** [in/coreystruzan](https://www.linkedin.com/in/coreystruzan/)
 - **X:** [@coreystruzan](https://x.com/coreystruzan)
+- **YouTube:** [@coreystruzan)[https://youtube.com/@CoreyStruzan]

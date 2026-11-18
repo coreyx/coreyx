@@ -10,6 +10,8 @@
 - **[SpecDevShip](https://specdevship.com)** — Spec-driven discipline and structured agent skills for autonomous AI coding agents (Claude Code, agent frameworks).
 - **Agent Session Explorer** — a modern, cross-platform desktop GUI application designed to discover, browse, organize, and export session data from AI-assisted coding and coworking agents.
 - **Open Source:**
+  - `gryphon` - desktop app for collecting, organizing, previewing, and searching design assets and other files—using tools like tags, filters, and visual search.
+  - `photocraft-ai-diffusion` - Generative AI inside PhotoCraft, the open-source Rust image editor.
   - `vscode-md-taskview` — Track tasks inside VS Code with this VS extension.
   - `claude-md-taskview` — Track tasks inside Claude Code with this Claude mod.
   - `obsidian-inference-machine` — Derive a new note from an existing one with an AI model and this Obsidian plugin.

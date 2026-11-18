@@ -35,7 +35,7 @@
 
 ### 📜 Shipped Highlights
 
-- **33+ Commercial Projects** delivered across games, enterprise web, XR, and hardware.
+- **33+ Commercial Projects** delivered across apps, games, web, XR, and hardware.
 - **RackVax Electric** — Custom hardware guitar processor designed, manufactured, and shipped globally with **zero warranty returns**.
 - **Interactive Activations & XR** — Real-time virtual sets and installations showcased at **E3 2017** and **Super Bowl 50** for clients including Nike, NFL, FOX, Salesforce, and Lexus.
 - **Emulators & Reverse Engineering** — Early author of the 2003 *World of Warcraft* Friends & Family alpha server emulator that effectively released the game a year early and the 1996 *Ultima Online* pre-alpha server emulator that resurrected a piece of history.

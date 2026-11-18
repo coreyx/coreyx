@@ -30,6 +30,8 @@
 - **Game Design**
 - **Filmmaking**
 - **Music Production**
+- **Business**
+- **Marketing**
 
 ---
 

@@ -12,8 +12,8 @@
 - **Open Source:**
   - `gryphon` - desktop app for collecting, organizing, previewing, and searching design assets and other files—using tools like tags, filters, and visual search.
   - `photocraft-ai-diffusion` - Generative AI inside PhotoCraft, the open-source Rust image editor.
-  - `vscode-md-taskview` — Track tasks inside VS Code with this VS extension.
-  - `claude-md-taskview` — Track tasks inside Claude Code with this Claude mod.
+  - `vscode-md-taskview` — Track tasks inside VS Code using Markdown files with this VS extension.
+  - `claude-md-taskview` — Track tasks inside Claude Code using Markdown files with this Claude mod.
   - `obsidian-inference-machine` — Derive a new note from an existing one with an AI model and this Obsidian plugin.
   - `obsidian-folder-autotag` — Automate tagging notes by folder in Obsidian using this Obsidian plugin.
   - `eagle-serve` — Serve your Eagle library over WebDAV with this Eagle plugin.

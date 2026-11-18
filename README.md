@@ -23,7 +23,17 @@
 
 ---
 
-### 💻 Core Tech & Disciplines
+### Disciplines
+
+- **Software Engineering**
+- **AI / ML Engineering**
+- **Game Design**
+- **Filmmaking**
+- **Music Production**
+
+---
+
+### 💻 Tools & Skills
 
 - **Languages:** C, C++, C#, Rust, Python, Javascript, TypeScript, Go
 - **AI & Agentic Systems:** Spec-driven agent skills, orchestration, harnesses, evals, agent automation workflows, vision/diffusion pipelines, multi-modal inference

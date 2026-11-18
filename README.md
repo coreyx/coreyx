@@ -6,9 +6,10 @@
 ---
 
 ### 🛠️ What I’m Building & Maintaining
-
+- **[Moongate Games](https://coreystruzan.com/projects/moongate-games)** — Games, systems, build & engine tooling, network replication and online services across Unreal Engine and Unity.
 - **[SpecDevShip](https://specdevship.com)** — Spec-driven discipline and structured agent skills for autonomous AI coding agents (Claude Code, agent frameworks).
 - **Agent Session Explorer** — a modern, cross-platform desktop GUI application designed to discover, browse, organize, and export session data from AI-assisted coding and coworking agents.
+- **Stealth Projects** — Autonomous agent architectures and distributed systems.
 - **Open Source:**
   - `gryphon` - desktop app for collecting, organizing, previewing, and searching design assets and other files—using tools like tags, filters, and visual search.
   - `photocraft-ai-diffusion` - Generative AI inside PhotoCraft, the open-source Rust image editor.
@@ -18,8 +19,7 @@
   - `obsidian-folder-autotag` — Automate tagging notes by folder in Obsidian using this Obsidian plugin.
   - `eagle-serve` — Serve your Eagle library over WebDAV with this Eagle plugin.
   - `eagle-extra-links` — Add extra links to Eagle items with this Eagle plugin.
-- **[Moongate Games](https://coreystruzan.com/projects/moongate-games)** — Games, systems, build & engine tooling, network replication and online services across Unreal Engine and Unity.
-- **Stealth Projects** — Autonomous agent architectures and distributed systems.
+
 
 ---
 

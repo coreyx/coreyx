@@ -25,13 +25,13 @@
 
 ### Disciplines
 
-- **Software Engineering**
 - **AI / ML Engineering**
-- **Game Design**
+- **Software Engineering**
+- **Game Design & Development**
 - **Filmmaking**
 - **Music Production**
-- **Business**
 - **Marketing**
+- **Business**
 
 ---
 

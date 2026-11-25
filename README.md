@@ -13,7 +13,7 @@
 - **Open Source:**
   - [gryphon](https://github.com/coreyx/gryphon) - desktop app for collecting, organizing, previewing, and searching design assets and other files—using tools like tags, filters, and visual search.
   - [photocraft-ai-diffusion](https://github.com/coreyx/photocraft-ai-diffusion) - Generative AI inside PhotoCraft, the open-source Rust image editor.
-  - [claude-session-info](https://github.com/coreyx/claude-session-info) — A Claude Code mod that puts a live metrics pane beside the chat
+  - [claude-session-info](https://github.com/coreyx/claude-session-info) — A Claude Code mod that puts a live metrics pane beside the chat.
   - [vscode-md-taskview](https://github.com/coreyx/vscode-md-taskview) — Track tasks inside VS Code using Markdown files with this VS extension.
   - [claude-md-taskview](https://github.com/coreyx/claude-md-taskview) — Track tasks inside Claude Code using Markdown files with this Claude mod.
   - [obsidian-inference-machine](https://github.com/coreyx/obsidian-inference-machine) — Derive a new note from an existing one with an AI model and this Obsidian plugin.

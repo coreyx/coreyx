@@ -11,14 +11,15 @@
 - **[Agent Session Explorer](https://specdevship.com/agent-session-explorer.html)** — a modern, cross-platform desktop GUI application designed to discover, browse, organize, and export session data from AI-assisted coding and coworking agents.
 - **Stealth Projects** — Autonomous agent architectures and distributed systems.
 - **Open Source:**
-  - `gryphon` - desktop app for collecting, organizing, previewing, and searching design assets and other files—using tools like tags, filters, and visual search.
-  - `photocraft-ai-diffusion` - Generative AI inside PhotoCraft, the open-source Rust image editor.
-  - `vscode-md-taskview` — Track tasks inside VS Code using Markdown files with this VS extension.
-  - `claude-md-taskview` — Track tasks inside Claude Code using Markdown files with this Claude mod.
-  - `obsidian-inference-machine` — Derive a new note from an existing one with an AI model and this Obsidian plugin.
-  - `obsidian-folder-autotag` — Automate tagging notes by folder in Obsidian using this Obsidian plugin.
-  - `eagle-serve` — Serve your Eagle library over WebDAV with this Eagle plugin.
-  - `eagle-extra-links` — Add extra links to Eagle items with this Eagle plugin.
+  - [gryphon](https://github.com/coreyx/gryphon) - desktop app for collecting, organizing, previewing, and searching design assets and other files—using tools like tags, filters, and visual search.
+  - [photocraft-ai-diffusion](https://github.com/coreyx/photocraft-ai-diffusion) - Generative AI inside PhotoCraft, the open-source Rust image editor.
+  - [claude-session-info](https://github.com/coreyx/claude-session-info) —  
+  - [vscode-md-taskview](https://github.com/coreyx/vscode-md-taskview) — Track tasks inside VS Code using Markdown files with this VS extension.
+  - [claude-md-taskview](https://github.com/coreyx/claude-md-taskview) — Track tasks inside Claude Code using Markdown files with this Claude mod.
+  - [obsidian-inference-machine](https://github.com/coreyx/obsidian-inference-machine) — Derive a new note from an existing one with an AI model and this Obsidian plugin.
+  - [obsidian-folder-autotag](https://github.com/coreyx/obsidian-folder-autotag) — Automate tagging notes by folder in Obsidian using this Obsidian plugin.
+  - [eagle-serve](https://github.com/coreyx/eagle-serve) — Serve your Eagle library over WebDAV with this Eagle plugin.
+  - [eagle-extra-links](https://github.com/coreyx/eagle-extra-links) — Add extra links to Eagle items with this Eagle plugin.
 
 
 ---
